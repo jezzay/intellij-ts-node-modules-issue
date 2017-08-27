@@ -1,0 +1,1 @@
+# intellij-ts-node-modules-issue

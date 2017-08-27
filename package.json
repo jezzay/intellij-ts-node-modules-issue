@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "lerna": "^2.1.0",
+    "typescript": "^2.5.1"
+  },
+  "scripts": {
+    "postinstall": "lerna bootstrap",
+    "tsc": "tsc"
+  }
+}

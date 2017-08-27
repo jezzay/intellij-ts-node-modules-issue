@@ -10,3 +10,6 @@ Demo of an issue in IntelliJ/Webstorm where TS symlinked files are shown as not 
 As a result, refactoring/renaming anything in `packages-1` won't update usages in `package-2`
 
 This setup is common when using [lerna](https://github.com/lerna/lerna) to manage mono repos of npm packages. 
+
+Related issues: 
+ - [WEB-25407](https://youtrack.jetbrains.com/issue/WEB-25407#u=1486700121816)

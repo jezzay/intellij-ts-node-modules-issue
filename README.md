@@ -13,3 +13,5 @@ This setup is common when using [lerna](https://github.com/lerna/lerna) to manag
 
 Related issues: 
  - [WEB-25407](https://youtrack.jetbrains.com/issue/WEB-25407#u=1486700121816)
+ 
+ *Update* This is now fixed in Intellij 2017.3
